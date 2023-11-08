@@ -176,6 +176,9 @@ flex-wrap: wrap;
     h2{
         font-size: 1.8rem;
     }
+    .hero-section{
+        padding: 50px;
+    }
     .list{
         display: none;
     }
